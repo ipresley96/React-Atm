@@ -1,2 +1,3 @@
-# React-Atm
-This project was  complete during MIT xPro Coding Certificate program
+# ATMExercise
+Simple React ATM
+<img src="./atm.png" />
